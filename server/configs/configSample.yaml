@@ -5,12 +5,12 @@ secretkeysentry:
 projectsentry:
 
 sql:
-  name: db-postgres
-  host: 150.230.222.54
-  port: 5432
-  username: "tuan"
-  password: "GPEwCeXQqQGwmtLd"
-  database: "postgres"
+  name:
+  host:
+  port:
+  username:
+  password:
+  database:
 
 redis:
   name:
